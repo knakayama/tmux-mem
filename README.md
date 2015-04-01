@@ -5,8 +5,6 @@ This is a mini plugin for [TPM](https://github.com/tmux-plugins/tpm).
 
 This plugin just display Memory Usage. Only do it.
 
-**Linux only!**. Do you like Mac OS X? **I DON'T LIKE IT!**
-
 ## Usage
 
 Add #{mem} format string to your existing status-right tmux option.
