@@ -23,4 +23,3 @@ set-option -g status-right '#{mem}'
 
 [MIT](https://github.com/knakayama/tmux-mem/blob/master/LICENSE.md)
 
-
